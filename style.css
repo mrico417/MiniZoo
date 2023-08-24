@@ -1,0 +1,24 @@
+h1, li {
+    color: brown;
+}
+
+a {
+    color: brown;
+    text-decoration-color: brown;
+}
+
+body {
+    background-color: darkseagreen;
+}
+
+img {
+    border-radius: 5%;
+}
+
+p {
+    padding-left: 20pt;
+}
+
+section {
+    justify-content: center;
+}
